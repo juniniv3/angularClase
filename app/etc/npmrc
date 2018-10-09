@@ -1,0 +1,5 @@
+cache = C:\Users\Junini\Desktop\node portable\cache
+globalconfig = C:\Users\Junini\Desktop\node portable\app\etc\npmrc
+globalignorefile = C:\Users\Junini\Desktop\node portable\app\etc\.npmignore
+init-module = C:\Users\Junini\Desktop\node portable\app\etc\.npm-init.js
+userconfig = C:\Users\Junini\Desktop\node portable\app\etc\npmrc
